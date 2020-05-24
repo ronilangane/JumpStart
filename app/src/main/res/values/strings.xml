@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Startup Helper</string>
+
+    <string-array name="domain">
+        <item>Select your domain</item>
+        <item>Automobile</item>
+        <item>Chemical</item>
+        <item>Pharmaceuticals</item>
+        <item>Food Processing</item>
+        <item>Renewable Energy</item>
+        <item>Other</item>
+    </string-array>
+    <string name="title_activity_test1">test1</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="home_second">Home Second</string>
+    <string name="app_name1">Watson Chabot</string>
+    <string name="what_s_on_your_mind">Enter your query</string>
+    <string name="menu_refresh">Refresh</string>
+
+
+</resources>
