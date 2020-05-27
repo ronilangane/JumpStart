@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/aa"
+    android:background="@drawable/minimalist_wallpapers_droidviews_25"
     tools:context=".MainActivity">
 
 
@@ -12,7 +12,7 @@
         android:id="@+id/email"
         android:layout_width="267dp"
         android:layout_height="54dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
         android:drawableLeft="@android:drawable/ic_dialog_email"
 
         android:ems="10"
@@ -27,7 +27,7 @@
         android:id="@+id/username"
         android:layout_width="267dp"
         android:layout_height="54dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
         android:drawableLeft="@drawable/username"
         android:ems="10"
         android:hint=" Username"
@@ -51,7 +51,7 @@
         android:id="@+id/reg_password"
         android:layout_width="267dp"
         android:layout_height="54dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
         android:drawableLeft="@drawable/password"
         android:hint="Password"
         android:inputType="textPassword"
@@ -64,7 +64,7 @@
         android:id="@+id/cpass"
         android:layout_width="264dp"
         android:layout_height="54dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
 
         android:drawableLeft="@drawable/password"
         android:hint="Confirm Password"
@@ -137,7 +137,7 @@
         android:id="@+id/name"
         android:layout_width="267dp"
         android:layout_height="54dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
         android:drawableLeft="@drawable/username"
         android:ems="10"
         android:hint=" Name"

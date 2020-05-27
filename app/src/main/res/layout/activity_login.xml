@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/aa"
+    android:background="@drawable/minimalist_wallpapers_droidviews_25"
     tools:context=".Login">
 
     <EditText
         android:id="@+id/uname_l"
         android:layout_width="259dp"
         android:layout_height="58dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
         android:drawableLeft="@drawable/username"
         android:ems="10"
         android:hint="Username"
@@ -28,7 +28,7 @@
         android:id="@+id/password_l"
         android:layout_width="249dp"
         android:layout_height="57dp"
-        android:background="@android:drawable/spinner_background"
+        android:background="@drawable/custom_button"
         android:drawableLeft="@drawable/password"
         android:ems="10"
         android:hint="Password"

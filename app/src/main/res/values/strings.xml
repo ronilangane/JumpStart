@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Startup Helper</string>
+    <string name="app_name">JumpStart</string>
 
     <string-array name="domain">
         <item>Select your domain</item>
